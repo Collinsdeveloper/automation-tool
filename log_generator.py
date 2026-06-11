@@ -13,12 +13,3 @@ def generate_log(log_entries):
     print(f"Log file created: {filename}")
 
     return filename
-
-
-logs = [
-    "User logged in",
-    "Task completed",
-    "System shutdown"
-]
-
-generate_log(logs)
