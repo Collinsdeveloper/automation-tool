@@ -1,3 +1,0 @@
-User logged in
-Task completed
-System shutdown
